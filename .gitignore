@@ -7,3 +7,4 @@
 *.exe.spec
 /logs/
 /process_name.txt
+*.pyc
